@@ -1,7 +1,7 @@
 import socket, ssl, json, base64, os
 
 # CHANGE THIS to server IP when using another laptop
-HOST = "10.243.45.121"  
+HOST = "xx.xx.xx.xxx"  
 PORT = 5000
 
 # TLS (no verification for self-signed cert)
