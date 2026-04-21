@@ -87,7 +87,7 @@ python client.py
 
 ---
 
-🔑 Login Credentials
+ Login Credentials
 
 ```
 Username: admin
@@ -155,7 +155,7 @@ Includes:
 
 ---
 
-## 📊 Performance Evaluation
+## Performance Evaluation
 
 * Command execution is fast (milliseconds)
 * File transfer time increases with file size
@@ -205,7 +205,7 @@ This project demonstrates a **secure, scalable client-server system** integratin
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Abhay Babji P
 Prarthana Herur
