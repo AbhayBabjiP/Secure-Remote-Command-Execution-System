@@ -51,7 +51,7 @@ def handle_client(conn, addr):
 
             req = json.loads(data.decode())
 
-            # 🖥️ Execute command
+            #  Execute command
             if req["action"] == "EXEC":
 
                 print(f"Executing: {req['command']} from {addr}")
