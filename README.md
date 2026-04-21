@@ -131,7 +131,7 @@ C:\Users\Name\Desktop\file.txt
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 
 * TLS encryption for secure communication
 * Authentication system
@@ -139,7 +139,7 @@ C:\Users\Name\Desktop\file.txt
 
 ---
 
-## 📜 Audit Logging
+##  Audit Logging
 
 Logs stored in:
 
