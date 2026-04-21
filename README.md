@@ -107,7 +107,7 @@ After login:
 
 ---
 
-### 📤 2. Upload File
+ 2. Upload File
 
 * Enter file path from client system
 * Example:
@@ -118,14 +118,14 @@ C:\Users\Name\Desktop\file.txt
 
 ---
 
-### 📥 3. Download File
+3. Download File
 
 * Enter file name from server
 * Choose save location
 
 ---
 
-### ❌ 4. Exit
+4. Exit
 
 * Closes connection
 
@@ -207,5 +207,6 @@ This project demonstrates a **secure, scalable client-server system** integratin
 
 ## 👨‍💻 Author
 
-Your Name
+Abhay Babji P
+
 
