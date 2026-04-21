@@ -2,7 +2,7 @@ import socket, ssl, json, subprocess, time, logging, base64, os, threading
 
 HOST, PORT = "0.0.0.0", 5000
 
-USERS = {"admin": "password123"} //your wish
+USERS = {"admin": "password123"}  //your wish
 
 logging.basicConfig(
     filename="audit.log",
