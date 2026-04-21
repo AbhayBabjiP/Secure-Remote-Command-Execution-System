@@ -100,14 +100,14 @@ Usage Instructions
 
 After login:
 
-1. Execute Command
+## 1. Execute Command
 
 * Enter system command
 * Example: `ls`, `dir`, `whoami`
 
 ---
 
- 2. Upload File
+ ## 2. Upload File
 
 * Enter file path from client system
 * Example:
@@ -118,14 +118,14 @@ C:\Users\Name\Desktop\file.txt
 
 ---
 
-3. Download File
+## 3. Download File
 
 * Enter file name from server
 * Choose save location
 
 ---
 
-4. Exit
+## 4. Exit
 
 * Closes connection
 
@@ -164,7 +164,7 @@ Includes:
 
 ---
 
-## ⚙️ Optimization & Fixes
+## Optimization & Fixes
 
 * Improved error handling
 * Handled invalid JSON inputs
@@ -174,7 +174,7 @@ Includes:
 
 ---
 
-## 🔍 Observations
+## Observations
 
 * Efficient command execution
 * Linear file transfer behavior
@@ -182,7 +182,7 @@ Includes:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Uses self-signed certificates
 * No command restriction
@@ -190,7 +190,7 @@ Includes:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * GUI interface
 * Command filtering
@@ -199,7 +199,7 @@ Includes:
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates a **secure, scalable client-server system** integrating networking, security, and system programming concepts.
 
@@ -208,5 +208,7 @@ This project demonstrates a **secure, scalable client-server system** integratin
 ## 👨‍💻 Author
 
 Abhay Babji P
+Prarthana Herur
+Nikshep Gowda
 
 
